@@ -5,8 +5,13 @@ Neste repositório dispobibilizamos o material utilizado na simulação realizad
 
 Atenciosamente,
 Gustavo Henrique Martins - gustavoh.martins95@gmail.com
+
 Felipe Valentini 
+
 Bruno Bonfá Araújo 
+
 Adriana Satico Ferraz 
+
 Fernanda Otoni 
+
 André Pereira Gonçalves 
