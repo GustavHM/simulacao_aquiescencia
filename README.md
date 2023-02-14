@@ -4,6 +4,7 @@ Aquiescência: Guia prático de análise e recomendações sobre balanceamento d
 Neste repositório dispobibilizamos o material utilizado na simulação realizada no artigo "Aquiescência: Guia prático de análise e recomendações sobre balanceamento de itens". Usem a vontade. Qualquer dúvida estamos a diposição.
 
 Atenciosamente,
+
 Gustavo Henrique Martins - gustavoh.martins95@gmail.com
 
 Felipe Valentini 
