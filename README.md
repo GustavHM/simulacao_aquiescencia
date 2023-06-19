@@ -1,7 +1,7 @@
 # simulacao_aquiescencia
-Aquiescência: Guia prático de análise e recomendações sobre balanceamento de itens
+Comparação de métodos para o controle do viés da aquiescência em escalas balanceadas e desbalanceadas
 
-Neste repositório dispobibilizamos o material utilizado na simulação realizada no artigo "Aquiescência: Guia prático de análise e recomendações sobre balanceamento de itens". Usem a vontade. Qualquer dúvida estamos a diposição.
+Neste repositório dispobibilizamos o material utilizado na simulação realizada no artigo "Comparação de métodos para o controle do viés da aquiescência em escalas balanceadas e desbalanceadas". Usem à vontade, qualquer dúvida estamos à disposição.
 
 Atenciosamente,
 
